@@ -13,7 +13,7 @@ using Moq;
 using Xunit;
 using Xunit.Extensions;
 
-namespace Microsoft.AspNet.SignalR.Tests
+namespace Microsoft.AspNet.SignalR.CSharp.Tests
 {
     public class ConnectionFacts : IDisposable
     {
